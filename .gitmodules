@@ -1,0 +1,3 @@
+[submodule "secret-core"]
+	path = secret-core
+	url = https://github.com/syedk25/My-Portfolio.git
